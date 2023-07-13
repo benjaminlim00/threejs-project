@@ -1,6 +1,3 @@
-markdown
-Copy code
-
 # Three.js Learning Project
 
 This is a readme file for a project where you can learn about Three.js, a JavaScript library for creating and displaying 3D computer graphics on the web. This project includes a basic setup for creating a 3D scene with a sphere, light, camera, and controls. It also demonstrates how to animate the sphere and interact with it using the mouse.
